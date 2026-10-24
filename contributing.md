@@ -216,3 +216,5 @@ covered in the Troubleshooting section.
 ---
 
 *windows-resume-builder · Updated 2026-10-24 · Shared under the MIT License*
+
+<!-- last reviewed 2026-10-24 -->
