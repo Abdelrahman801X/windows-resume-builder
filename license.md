@@ -215,4 +215,4 @@ covered in the Troubleshooting section.
 
 ---
 
-*windows-resume-builder · Updated 2026-10-25 · Shared under the MIT License*
+*windows-resume-builder · Updated 2026-10-26 · Shared under the MIT License*
